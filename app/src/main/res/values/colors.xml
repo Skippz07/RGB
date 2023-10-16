@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Name: Ulysses Carbajal -->
+<!--CWID: 887269900 -->
+<!--Email: UlyssesC@csu.fullerton.edu -->
+
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red_start">#FF0000</color>
+    <color name="red_end">#FF7F7F</color>
+    <color name="green_start">#00FF00</color>
+    <color name="green_end">#7FFF7F</color>
+    <color name="blue_start">#0000FF</color>
+    <color name="blue_end">#7F7FFF</color>
+</resources>

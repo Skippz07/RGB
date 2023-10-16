@@ -1,0 +1,15 @@
+<resources>
+    <!--Name: Ulysses Carbajal -->
+    <!--CWID: 887269900 -->
+    <!--Email: UlyssesC@csu.fullerton.edu -->
+    <string name="app_name">RGB</string>
+    <string name="Red_switch_label">Red</string>
+    <string name="green_switch_label">Green</string>
+    <string name="blue_switch_label">Blue</string>
+    <string name="reset_button_label">Reset</string>
+    <string name="ffffff">#FFFFFF</string>
+    <string name="_0_00">0.00</string>
+    <string name="red_value_hint">Red intensity value</string>
+    <string name="green_value_hint">Green intensity value</string>
+    <string name="blue_value_hint">Blue intensity value</string>
+</resources>

@@ -1,0 +1,24 @@
+<!--Name: Ulysses Carbajal -->
+<!--CWID: 887269900 -->
+<!--Email: UlyssesC@csu.fullerton.edu -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="300"
+    android:viewportHeight="150">
+
+    <!-- Red Rectangle -->
+    <path
+        android:fillColor="#FF0000"
+        android:pathData="M0,0H300V50H0z"/>
+
+    <!-- White Rectangle -->
+    <path
+        android:fillColor="#00FF00"
+        android:pathData="M0,50H300V100H0z"/>
+
+    <!-- Blue Rectangle -->
+    <path
+        android:fillColor="#0000FF"
+        android:pathData="M0,100H300V150H0z"/>
+</vector>
